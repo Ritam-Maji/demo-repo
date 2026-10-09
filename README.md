@@ -5,6 +5,7 @@ A simple repository for testing GitHub README formatting.
 
 ## 🛠️ Tech Stack
 - Python
+- Streamlit
 - Git & GitHub
 
 ## ▶️ Run
@@ -12,7 +13,6 @@ A simple repository for testing GitHub README formatting.
 ```bash
 python main.py
 ```
-
 
 ## 📄 License
 MIT License
