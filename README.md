@@ -15,3 +15,4 @@ python main.py
 
 ## 📄 License
 MIT License
+Give a star
